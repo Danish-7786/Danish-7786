@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danish-7786
-- 👀 I’m interested in creating awesome things by coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on awesome web projects
+- 👀 Software Engineer at Falabella
+- 🌱 Learning How to handle Complex Backend Systems
+- 💞️ Writing Scalable Code
 - 📫 How to reach me twitter @amvStaan
 
 <!---
